@@ -25,3 +25,5 @@ void populateAddressBook(AddressBook* addressBook)
     addressBook->contactCount = size;
     //printf("contact count%d\n", addressBook->contactCount);
 }
+
+
